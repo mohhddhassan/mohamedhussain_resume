@@ -7,7 +7,7 @@
       display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 60%; /* you can change the width */
+      width: 60%; 
     }
   </style>
 </head>
