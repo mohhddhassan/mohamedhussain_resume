@@ -3,26 +3,17 @@
 <html>
 <head>
   <style>
-    .center {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh; /* Full screen height */
-      background: #f8f8f8; /* Optional: light background */
-    }
-    .center-wrapper img {
-      max-width: 60%;
-      height: auto;
+    .center-img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 60%; /* you can change the width */
     }
   </style>
 </head>
 <body>
 
-  <div class="center-wrapper">
-    <img src="https://github.com/user-attachments/assets/b8f0a37f-88ff-4d52-9318-d1d7b6893319" class="center" alt="Centered Resume">
-  </div>
+  <img src="https://github.com/user-attachments/assets/b8f0a37f-88ff-4d52-9318-d1d7b6893319" class="center-img" alt="Centered Image">
 
 </body>
 </html>
-
-
