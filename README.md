@@ -1,13 +1,4 @@
 # mohamedhussain_resume
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body style="text-align: center;">
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png" 
-       alt="Centered Resume"
-       style="max-width: 60%; height: auto;">
-
-</body>
-</html>
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/b8f0a37f-88ff-4d52-9318-d1d7b6893319" alt="Centered Image" style="width: 60%;">
+</div>
